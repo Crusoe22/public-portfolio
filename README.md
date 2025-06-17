@@ -50,7 +50,7 @@ Currently, I am pursuing my Master's in Data Analytics at Northwest Missouri Sta
 
 ## 📫 Let's Connect
 
-- **LinkedIn:** [Your LinkedIn URL]
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/nolan-moss-0933481a2/)
 - **Email:** nolanmmoss@gmail.com
 
 
