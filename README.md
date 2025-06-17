@@ -43,6 +43,7 @@ Currently, I am pursuing my Master's in Data Analytics at Northwest Missouri Sta
 | [Insurance Rate Analysis](https://github.com/Crusoe22/ml_regression_moss) | Built models to predict individual insurance rates based on multiple features, comparing the accuracy of Linear Regression and Polynomial Regression approaches | Python, Pandas, Numpy, sklearn, matplotlib |
 | [Web Sentiment Analysis](link-to-repo) | Built a sentiment scoring pipeline for web comments using SpaCy NLP. | Python, SpaCy, Matplotlib |
 | [Insurance Claims Submission App](link-to-repo) | Developed a full-stack app for submitting and tracking insurance claims. | Python (Kivy), MongoDB, Node.js |
+| [CMDP_Sample_Results Data Processing](https://github.com/Crusoe22/CMDP_Sample_Results) | Automation of data pipline process for CMPD samples in ArcGIS pro | Python, Arcpy, Openpyxl |
 
 > 📌 *Explore my repositories for more detailed projects!*
 
