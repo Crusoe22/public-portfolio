@@ -40,7 +40,7 @@ Currently, I am pursuing my Master's in Data Analytics at Northwest Missouri Sta
 | Project | Description | Technologies |
 | ------- | ----------- | ------------ |
 | [Bitcoin vs Dogecoin Analysis](link-to-repo) | Analyzed 12-month trends of BTC and DOGE, with visualizations of daily changes, volatility, and return comparisons. | Python, Matplotlib, Pandas, Excel |
-| [Restaurant Inspection Dashboard](link-to-repo) | Created a dashboard for restaurant health inspections to explore violation trends across locations. | Python, Kivy, SQLite |
+| [Insurance Rate Analysis](https://github.com/Crusoe22/ml_regression_moss) | Built models to predict individual insurance rates based on multiple features, comparing the accuracy of Linear Regression and Polynomial Regression approaches | Python, Pandas, Numpy, sklearn, matplotlib |
 | [Web Sentiment Analysis](link-to-repo) | Built a sentiment scoring pipeline for web comments using SpaCy NLP. | Python, SpaCy, Matplotlib |
 | [Insurance Claims Submission App](link-to-repo) | Developed a full-stack app for submitting and tracking insurance claims. | Python (Kivy), MongoDB, Node.js |
 
