@@ -6,6 +6,11 @@ Hi! I'm Nolan, a analyst with a passion for extracting meaningful insights from 
 
 Currently, I am pursuing my Master's in Data Analytics at Northwest Missouri State UNiversity, expected to graduate in August, 2025.
 
+#### Contact Information
++ Nolan Moss
++ nolanmmoss@gmail.com
++ (813)509-9163
+
 ---
 
 ## 🛠️ Skills & Tools
