@@ -42,7 +42,7 @@ Currently, I am pursuing my Master's in Data Analytics at Northwest Missouri Sta
 | [Bitcoin vs Dogecoin Analysis](https://github.com/Crusoe22/public-portfolio/tree/main/Excel%20Portfolio) | Analyzed 12-month trends of BTC and DOGE, with visualizations of daily changes, volatility, and return comparisons. | Excel |
 | [Insurance Rate Analysis](https://github.com/Crusoe22/ml_regression_moss) | Built models to predict individual insurance rates based on multiple features, comparing the accuracy of Linear Regression and Polynomial Regression approaches | Python, Pandas, Numpy, sklearn, matplotlib |
 | [Web Mining and Applied NLP](https://github.com/Crusoe22/Module7-final-web-mining) | Built a sentiment scoring pipeline for web comments using SpaCy NLP. | Python, SpaCy, Matplotlib, requests |
-| [Insurance Claims Submission App](link-to-repo) | Developed a full-stack app for submitting and tracking insurance claims. | Python (Kivy), MongoDB, Node.js |
+| [Insurance Claims Submission App](https://github.com/Crusoe22/ClaimStalker-web) | Developed a full-stack app for submitting and tracking insurance claims. | Python, MongoDB, Node.js, HTML, CSS, Javascript |
 | [CMDP_Sample_Results Data Processing](https://github.com/Crusoe22/CMDP_Sample_Results) | Automation of data pipline process for CMPD samples in ArcGIS pro | Python, Arcpy, Openpyxl |
 
 > 📌 *Explore my repositories for more detailed projects!*
